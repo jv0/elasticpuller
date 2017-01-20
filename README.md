@@ -1,1 +1,3 @@
 # elasticpuller
+# Simple bit of python to 'stream' events out of Elasticsearch
+# Yes, it's stupid but I wrote it in a couple of hours and it serves a very specific purpose...
